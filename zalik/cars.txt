@@ -1,0 +1,8 @@
+Ford F-150 3.00 Diesel Pickup 2019 35000.00
+Toyota Camry 2.50 Gasoline Sedan 2020 25000.00
+Honda Civic 1.80 Gasoline Sedan 2018 20000.00
+Toyota Corolla 1.80 Gasoline Sedan 2019 23000.00
+Chevrolet Cruze 1.40 Gasoline Sedan 2017 18000.00
+Nissan Altima 2.50 Gasoline Sedan 2019 27000.00
+BMW X5 3.00 Diesel SUV 2021 60000.00
+Mercedes-Benz E-Class 2.00 Gasoline Sedan 2020 55000.00

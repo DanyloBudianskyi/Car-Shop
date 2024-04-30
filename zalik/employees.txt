@@ -1,0 +1,3 @@
+Smith John 15 5 1985 8 1234567890 Manager
+Johnson Emily 20 9 1990 5 2345678901 Salesperson
+Williams David 10 11 1982 12 3456789012 Techician
